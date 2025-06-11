@@ -9,7 +9,7 @@
 
 <h1 >🗄️ Databases & ORM</h1>
 <p>
-    <img src="https://skillicons.dev/icons?i=,postgres,mysql,sqlite,prisma,firebase" />
+    <img src="https://skillicons.dev/icons?i=,postgres,mysql,sqlite,prisma" />
 </p>
 
 <h1>🛠️ Tools</h1>
