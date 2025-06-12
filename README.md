@@ -14,7 +14,7 @@
 
 <h1>🛠️ Tools</h1>
 <p>
-     <img src="https://skillicons.dev/icons?i=,git,github,visualstudio,vercel,materialui,npm,wordpress,slack" />
+     <img src="https://skillicons.dev/icons?i=,git,github,visualstudio,npm,wordpress,slack" />
 
 </p>
 <br>
