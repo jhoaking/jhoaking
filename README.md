@@ -6,7 +6,6 @@
 <br>
 <p>
   <img src="https://skillicons.dev/icons?i=,nodejs,express,nestjs,jest,java" />
-
 <h1 >🗄️ Databases & ORM</h1>
 <p>
     <img src="https://skillicons.dev/icons?i=,postgres,mysql,sqlite,prisma,typeORM" />
