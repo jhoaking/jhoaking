@@ -5,7 +5,7 @@
 <h1>⚙️ Back-End</h1>
 <br>
 <p>
-  <img src="https://skillicons.dev/icons?i=,nodejs,express,nestjs,jest,java" />
+  <img src="https://skillicons.dev/icons?i=,nodejs,express,nestjs,jest,java,typescript,javascript" />
 <h1 >🗄️ Databases & ORM</h1>
 <p>
     <img src="https://skillicons.dev/icons?i=,postgres,mysql,sqlite,prisma,typeORM" />
